@@ -1,0 +1,34 @@
+# *课后作业PART1*
+  进制转换：
+  1.72000
+  2.101
+  3.122
+  4.1111010,172
+  5.133,5B
+  6.1010100110,1246
+  7.1100
+
+
+# *课后作业PART2*
+  名词解释：
+  ## Information 信息
+  Information is any entity or form that provides the answer to a question of some kind or resolves uncertainty.
+  信息是提供某种问题的答案或解决不确定性的任何实体或形式。
+  ### ![](https://github.com/utaZ/zwr-homework/blob/gh-pages/images/330px-WikipediaBinary.svg.png)
+
+  ## Positional notation 位置符号
+  Positional notation or place-value notation is a method of representing or encoding numbers. 
+  位置符号或位置值表示法是表示或编码数字的方法。
+  ### ![](https://github.com/utaZ/zwr-homework/blob/gh-pages/images/450px-Positional_notation_glossary-en.svg.png)
+
+  ## Algorithm 算法
+  In mathematics and computer science, an algorithm is an unambiguous specification of how to solve a class of problems.
+  在数学和计算机科学中，算法是对如何解决一类问题的明确说明。
+  ### ![](https://github.com/utaZ/zwr-homework/blob/gh-pages/images/330px-Euclid_flowchart.svg.png)
+
+  ## Software Bug 软件错误
+   A software bug is an error, flaw, failure or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.
+   软件错误是计算机程序或系统中的错误、缺陷或故障，它导致程序或系统产生不正确或意外的结果，或以非预期的方式运行。
+
+
+  
