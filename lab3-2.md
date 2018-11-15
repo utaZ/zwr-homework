@@ -6,7 +6,7 @@
 ## 任务 1：简单程序
 
 ### （1）打开网页 The PIPPIN User’s Guide ，然后输入 Program 1：Add 2 number
-![]()
+![](https://github.com/utaZ/zwr-homework/blob/gh-pages/images/1.jpg)
 
 ### （2）点step after step。观察并回答下面问题：
 #### PC，IR 寄存器的作用
