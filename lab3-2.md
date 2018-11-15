@@ -1,6 +1,7 @@
 # 硬件编程–机器指令编程
 18342146 邹文睿
-![]()
+
+![](https://github.com/utaZ/zwr-homework/blob/gh-pages/images/0.jpg)
 
 ## 任务 1：简单程序
 
