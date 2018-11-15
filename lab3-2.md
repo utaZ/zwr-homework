@@ -55,7 +55,7 @@ c语言：#include<stdio.h>
       y=w+x;}
 ## 任务 2：简单循环
 ###（1） 输入程序Program 2，运行并回答问题：
-![]()
+![](https://github.com/utaZ/zwr-homework/blob/gh-pages/images/2.jpg)
 #### 用一句话总结程序的功能
 将x=3每次减1减至0
 #### 写出对应的 c 语言程序
