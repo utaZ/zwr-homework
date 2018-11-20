@@ -1,11 +1,12 @@
 # 硬件编程–机器指令编程
 18342146 邹文睿
-![]()
+
+![](https://github.com/utaZ/zwr-homework/blob/gh-pages/images/0.jpg)
 
 ## 任务 1：简单程序
 
 ### （1）打开网页 The PIPPIN User’s Guide ，然后输入 Program 1：Add 2 number
-![]()
+![](https://github.com/utaZ/zwr-homework/blob/gh-pages/images/1.jpg)
 
 ### （2）点step after step。观察并回答下面问题：
 #### PC，IR 寄存器的作用
@@ -54,7 +55,7 @@ c语言：#include<stdio.h>
       y=w+x;}
 ## 任务 2：简单循环
 ###（1） 输入程序Program 2，运行并回答问题：
-![]()
+![](https://github.com/utaZ/zwr-homework/blob/gh-pages/images/2.jpg)
 #### 用一句话总结程序的功能
 将x=3每次减1减至0
 #### 写出对应的 c 语言程序
